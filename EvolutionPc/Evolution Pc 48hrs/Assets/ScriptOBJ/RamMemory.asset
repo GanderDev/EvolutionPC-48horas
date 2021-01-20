@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b398573f9ee7acb409a006c4ba2c6abc, type: 3}
+  m_Name: RamMemory
+  m_EditorClassIdentifier: 
+  PartList:
+  - PartImageStore: {fileID: 3930097799354112941, guid: f4678e1cb74cbc247be983dc5705f97f, type: 3}
+    PartImageInGame: {fileID: 3930097799354112941, guid: f4678e1cb74cbc247be983dc5705f97f, type: 3}
+    Name: DDr2 RiperZ 2mb
+    Nivel: 1
+    _PartType: 2
+    Price: 40
+    MoneyPerSecond: 0.08
+  - PartImageStore: {fileID: -8659266931184901275, guid: f4678e1cb74cbc247be983dc5705f97f, type: 3}
+    PartImageInGame: {fileID: -8659266931184901275, guid: f4678e1cb74cbc247be983dc5705f97f, type: 3}
+    Name: 
+    Nivel: 2
+    _PartType: 0
+    Price: 70
+    MoneyPerSecond: 0.15
+  - PartImageStore: {fileID: 7017659194447703882, guid: f4678e1cb74cbc247be983dc5705f97f, type: 3}
+    PartImageInGame: {fileID: 7017659194447703882, guid: f4678e1cb74cbc247be983dc5705f97f, type: 3}
+    Name: 
+    Nivel: 3
+    _PartType: 0
+    Price: 120
+    MoneyPerSecond: 0.36
